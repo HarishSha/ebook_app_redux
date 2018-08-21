@@ -1,4 +1,4 @@
-# Basic you tube application on Redux
+# Basic Ebook application on Redux
 
 ### Getting Started
 

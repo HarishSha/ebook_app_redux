@@ -1,0 +1,10 @@
+.book-list-item {
+    cursor: pointer;
+    color: #1e1ec5;
+}
+
+.book-detail a {
+    font-size: 26px;
+    font-weight: 500;
+    text-decoration: underline;
+}
